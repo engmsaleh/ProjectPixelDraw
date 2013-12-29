@@ -1,1 +1,2 @@
-pixelArt draw for ios 7 ipad
+pixelArt drawing for ios 7 ipad
+
